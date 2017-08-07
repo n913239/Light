@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2776650C1F38106E0012D530 /* lightRainbow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lightRainbow.png; sourceTree = "<group>"; };
 		27C2446A1F37ED2C00F14C48 /* Light.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Light.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27C2446D1F37ED2C00F14C48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27C2446F1F37ED2C00F14C48 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 				27C244711F37ED2C00F14C48 /* Main.storyboard */,
 				27C244741F37ED2C00F14C48 /* Assets.xcassets */,
 				27C244761F37ED2C00F14C48 /* LaunchScreen.storyboard */,
+				2776650C1F38106E0012D530 /* lightRainbow.png */,
 				27C2447F1F37F78300F14C48 /* lightSample.png */,
 				27C244791F37ED2C00F14C48 /* Info.plist */,
 			);
