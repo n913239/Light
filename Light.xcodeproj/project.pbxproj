@@ -22,6 +22,7 @@
 		27C244741F37ED2C00F14C48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27C244771F37ED2C00F14C48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		27C244791F37ED2C00F14C48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27C2447F1F37F78300F14C48 /* lightSample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lightSample.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 				27C244711F37ED2C00F14C48 /* Main.storyboard */,
 				27C244741F37ED2C00F14C48 /* Assets.xcassets */,
 				27C244761F37ED2C00F14C48 /* LaunchScreen.storyboard */,
+				27C2447F1F37F78300F14C48 /* lightSample.png */,
 				27C244791F37ED2C00F14C48 /* Info.plist */,
 			);
 			path = Light;
